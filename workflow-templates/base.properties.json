@@ -1,0 +1,13 @@
+{
+    "name": "Base Workflow",
+    "description": "Just the base workflow to setup",
+    "iconName": "example-icon",
+    "categories": [
+        "JavaScript"
+    ],
+    "filePatterns": [
+        "package.json$",
+        "^Dockerfile",
+        ".*\\.md$"
+    ]
+}
